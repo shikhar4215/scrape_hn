@@ -38,3 +38,4 @@ for index, story in stories.iterrows():
             file.write(output)
     except Exception as e:
         print(e)
+just trying out here bro
